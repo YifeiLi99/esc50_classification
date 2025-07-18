@@ -13,6 +13,9 @@ __pycache__/
 
 # 数据集及中间缓存
 data/ESC-50-master/
+data/test
+data/train
+data/val
 data/*.csv
 data/*.zip
 
