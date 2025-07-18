@@ -94,5 +94,4 @@ python inference_gradio.py
 
 ---
 
-> 项目由 [Yifei Li] 完成，旨在构建完整 AI 工程项目流程。
 
