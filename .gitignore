@@ -1,0 +1,42 @@
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# VSCode / PyCharm 配置文件
+.vscode/
+.idea/
+
+# 数据集及中间缓存
+data/ESC-50-master/
+data/*.csv
+data/*.zip
+
+# 训练生成文件
+weights/
+runs/
+*.pt
+*.pth
+*.bin
+
+# 训练日志
+*.log
+*.csv
+
+# 可视化输出
+train_log_visualize/
+*.png
+*.pdf
+
+# Gradio Session 产生的文件
+*.tmp
+*.gradio
+
+# MacOS & Windows 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
